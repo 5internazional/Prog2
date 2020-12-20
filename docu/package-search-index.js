@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"pflichtaufgabe5.kunden"},{"l":"pflichtaufgabe5.reiseanbieter"},{"l":"pflichtaufgabe5.transportmittel"}]
